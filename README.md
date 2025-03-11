@@ -1,6 +1,6 @@
 # Olá, me chamo Gustavo ! 
 ## Bem vindo ao meu perfil GitHub 👑
-
+![Texto Alternativo](https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-2%2F022%2F695022%2F5wqH5OMp%2F72dbebf6f94344c986e3e8db90c3f611&methods=resize%2C500%2C5000)
 ## Estou aprendendo
 
 <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="40" height="40"/>
