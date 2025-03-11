@@ -1,6 +1,7 @@
 # Olá, me chamo Gustavo ! 
 ## Bem vindo ao meu perfil GitHub 👑
-![m](https://github.com/user-attachments/assets/585585b8-d8a5-4a00-9bbb-0d3035c11673)
+![cpm](https://github.com/user-attachments/assets/65e3c773-0c31-43cb-aa4e-ba5a4f25dc39)
+
 
 ## Estou aprendendo
 
