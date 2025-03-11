@@ -6,7 +6,7 @@
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="40" height="40"/>
+<img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="80" height="80"/>
 
 <!--
 **GustavoGS07/GustavoGS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
