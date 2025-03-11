@@ -2,6 +2,9 @@
 ## Bem vindo ao meu perfil GitHub 👑
 
 https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+## Estou aprendendo
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <!--
 **GustavoGS07/GustavoGS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
