@@ -1,11 +1,9 @@
 # Olá, me chamo Gustavo ! 
 ## Bem vindo ao meu perfil GitHub 👑
 
-<img loading="lazy" src="[https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-2%2F022%2F695022%2F5wqH5OMp%2F72dbebf6f94344c986e3e8db90c3f611&methods=resize%2C500%2C5000"
-width="80" height="80"/>
 ## Estou aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="40" height="40"/>
 
 <!--
 **GustavoGS07/GustavoGS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
