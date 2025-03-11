@@ -1,7 +1,7 @@
 # Olá, me chamo Gustavo ! 
 ## Bem vindo ao meu perfil GitHub 👑
 
-![ChatGPT]([https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white](https://www.cpmpatobranco.com.br/))
+![ChatGPT]([https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white))
 <!--
 **GustavoGS07/GustavoGS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
