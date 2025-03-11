@@ -1,11 +1,11 @@
 # Olá, me chamo Gustavo ! 
-## Bem vindo ao meu perfil GitHub 👑
-![cpm](https://github.com/user-attachments/assets/65e3c773-0c31-43cb-aa4e-ba5a4f25dc39)
+-Atualmente estudo no 6° Colégio da Polícia Militar/> <![cpm](https://github.com/user-attachments/assets/65e3c773-0c31-43cb-aa4e-ba5a4f25dc39)
+## Bem vindo ao meu perfil GitHub 👑 
 
 
 
-## Estou aprendendo
-<img loading="lazy" src="https://github.com/user-attachments/assets/bb1d36f4-0838-437e-9bac-1c9ba524ab11" width="100" height="80"/>
+
+## Estou aprendendo>
 
 <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="80"/>
 
