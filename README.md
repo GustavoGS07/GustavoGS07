@@ -1,6 +1,6 @@
 # Olá, me chamo Gustavo ! 
 ## Bem vindo ao meu perfil GitHub 👑
-![Texto Alternativo](file:///C:/Users/shpctac1002c/Desktop/m.png)
+![Texto Alternativo](https://www.flickr.com/photos/202458244@N08/54380044326/in/dateposted-public/)
 ## Estou aprendendo
 
 <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="40" height="40"/>
