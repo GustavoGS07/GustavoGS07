@@ -5,6 +5,7 @@
 
 
 ## Estou aprendendo
+<img loading="lazy" src="https://github.com/user-attachments/assets/bb1d36f4-0838-437e-9bac-1c9ba524ab11" width="100" height="80"/>
 
 <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="80"/>
 
