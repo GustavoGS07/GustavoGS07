@@ -1,7 +1,8 @@
 # Olá, me chamo Gustavo ! 
 ## Bem vindo ao meu perfil GitHub 👑
 
-![ChatGPT]([https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white))
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
 <!--
 **GustavoGS07/GustavoGS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
