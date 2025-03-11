@@ -1,7 +1,8 @@
 # Olá, me chamo Gustavo ! 
 ## Bem vindo ao meu perfil GitHub 👑
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+width="40" height="40"/> <img loading="lazy" 
 ## Estou aprendendo
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
