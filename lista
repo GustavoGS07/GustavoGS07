@@ -1,0 +1,14 @@
+
+entrada = input("Digite uma lista de números separados por espaço: ")
+
+L = [int(num) for num in entrada.split()]
+
+print("Você digitou a seguinte lista de números:", L)
+print("A lista possui",len(L),"elementos")
+print("O maior elemento da lista é", max(L))
+print("O menor elemento da lista é", min(L))
+print("A soma dos elementos da lista é", sum(L))
+L.sort()
+print("Lista em ordem crescente: ",L)
+L.reverse()
+print("Lista em ordem decrescente: ",L)
