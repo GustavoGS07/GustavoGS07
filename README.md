@@ -1,7 +1,8 @@
 # Olá, me chamo Gustavo ! 
 -Atualmente estudo no 6° Colégio da Polícia Militar
 
-![cpm](https://github.com/user-attachments/assets/65e3c773-0c31-43cb-aa4e-ba5a4f25dc39)
+![download](https://github.com/user-attachments/assets/9e57bae8-fa80-4a25-8a8f-7f575a0d4ced)
+
 
 ## Bem vindo ao meu perfil GitHub 👑 
 
