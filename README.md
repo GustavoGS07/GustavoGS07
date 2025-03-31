@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 Olá, me chamo Gustavo,<br>Atualmente estou no Terceirão do 6º CPM<br>Gosto muito de tecnologia, jogos, etc<br><br><br>
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavogs76) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-37894b1ab/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gustavogs07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gugubilbo@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Estou aprendendo:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GustavoGS07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -15,7 +15,7 @@ Olá, me chamo Gustavo,<br>Atualmente estou no Terceirão do 6º CPM<br>Gosto mu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+### 🔝 Melhor contribuição
 ![](https://github-contributor-stats.vercel.app/api?username=GustavoGS07&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
