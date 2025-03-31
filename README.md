@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Olá, me chamo Gustavo<br>Atualmente estou no Terceirão do 6º CPM<br><br><br><br>
+Olá, me chamo Gustavo<br>Atualmente estou no Terceirão do 6º CPM<br><br>
 ![download](https://github.com/user-attachments/assets/3203de17-84a7-465e-bdad-2e87bc73a930)
 
 
