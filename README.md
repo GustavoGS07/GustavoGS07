@@ -7,7 +7,7 @@ Olá, me chamo Gustavo,<br>Atualmente estou no Terceirão do 6º CPM<br>Gosto mu
 
 # 💻 Estou aprendendo:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
+# 📊 Status GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=GustavoGS07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GustavoGS07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGS07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
