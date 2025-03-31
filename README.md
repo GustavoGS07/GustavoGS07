@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Olá, me chamo Gustavo,<br>Atualmente estou no Terceirão do 6º CPM<br>Gosto muito de tecnologia, jogos, etc<br><br><br>
+Olá, me chamo Gustavo,<br>Atualmente estou no Terceirão do 6º CPM<br><br><br><br>
 
 
 ## 🌐 Redes sociais:
